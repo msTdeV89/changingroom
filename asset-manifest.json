@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/changingroom/static/css/main.13aec9b0.chunk.css",
+    "main.js": "/changingroom/static/js/main.472e9512.chunk.js",
+    "main.js.map": "/changingroom/static/js/main.472e9512.chunk.js.map",
+    "runtime-main.js": "/changingroom/static/js/runtime-main.1735bd36.js",
+    "runtime-main.js.map": "/changingroom/static/js/runtime-main.1735bd36.js.map",
+    "static/js/2.26814a09.chunk.js": "/changingroom/static/js/2.26814a09.chunk.js",
+    "static/js/2.26814a09.chunk.js.map": "/changingroom/static/js/2.26814a09.chunk.js.map",
+    "index.html": "/changingroom/index.html",
+    "static/css/main.13aec9b0.chunk.css.map": "/changingroom/static/css/main.13aec9b0.chunk.css.map",
+    "static/js/2.26814a09.chunk.js.LICENSE.txt": "/changingroom/static/js/2.26814a09.chunk.js.LICENSE.txt",
+    "static/media/jewelry.8593d8bb.jpg": "/changingroom/static/media/jewelry.8593d8bb.jpg",
+    "static/media/man.8e4f00a9.jpg": "/changingroom/static/media/man.8e4f00a9.jpg",
+    "static/media/slider1.6baba0ad.jpg": "/changingroom/static/media/slider1.6baba0ad.jpg",
+    "static/media/women.63f1d260.jpg": "/changingroom/static/media/women.63f1d260.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1735bd36.js",
+    "static/js/2.26814a09.chunk.js",
+    "static/css/main.13aec9b0.chunk.css",
+    "static/js/main.472e9512.chunk.js"
+  ]
+}
