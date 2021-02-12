@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Fake store website
+
+In this project I have used fake api from https://fakestoreapi.com/.
+
+## Demo
+
+Live demo: https://mstdev89.github.io/changingroom/
+
 ## Available Scripts
 
 In the project directory, you can run:
