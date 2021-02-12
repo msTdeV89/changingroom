@@ -1,0 +1,33 @@
+.category:hover .category__title {
+  letter-spacing: 5px;
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
+}
+
+.category:hover .category__image div {
+  -webkit-filter: blur(5px);
+          filter: blur(5px);
+}
+
+.category__image {
+  width: 50%;
+  height: 50vw;
+  max-height: 650px;
+  max-width: 650px;
+  overflow: hidden;
+}
+
+.category__title {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  width: 50%;
+}
+
+@media (min-width: 768px) {
+  .category__title {
+    font-size: 24px;
+  }
+}
+/*# sourceMappingURL=category.css.map */

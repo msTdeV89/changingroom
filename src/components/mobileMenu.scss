@@ -1,0 +1,29 @@
+.mobileMenu {
+  position: fixed;
+  background: white;
+  z-index: 10000;
+  margin-top: 60px;
+  width: 70%;
+  height: calc(100vh - 60px);
+  transform: translateX(-120%);
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
+  &__list {
+    display: flex;
+    margin-top: 25%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50%;
+    .menuItem {
+      flex-basis: 0;
+    }
+  }
+  &--isOpen {
+    transform: translateX(0);
+  }
+}
+@media (min-width: 1024px) {
+  .mobileMenu {
+    display: none;
+  }
+}

@@ -1,0 +1,36 @@
+.hero {
+  height: 50vh;
+  position: relative;
+}
+
+.hero__title {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  font-family: "Playfair Display", arial, sans-serif;
+  color: white;
+  z-index: 2;
+  font-size: 32px;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  text-align: center;
+  letter-spacing: 3px;
+}
+
+@media (min-width: 768px) {
+  .hero {
+    height: 60vh;
+  }
+  .hero__title {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero {
+    height: 70vh;
+  }
+}
+/*# sourceMappingURL=hero.css.map */

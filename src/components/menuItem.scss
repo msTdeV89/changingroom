@@ -1,0 +1,14 @@
+.menuItem {
+  flex-basis: 20%;
+  text-align: center;
+  border-bottom: 2px solid rgba(0, 0, 0, 0);
+  &:hover {
+    border-bottom: 2px solid rgba(0, 0, 0, 1);
+  }
+  a {
+    font-size: 18px;
+    padding: 5px 0;
+    display: block;
+    text-transform: uppercase;
+  }
+}
